@@ -1,0 +1,2 @@
+# THz-GUI
+Postgraduate project
